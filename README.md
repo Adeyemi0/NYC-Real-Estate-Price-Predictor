@@ -309,7 +309,7 @@ This project is open source and available under the MIT License.
 
 **Adeyemi**
 - HuggingFace: [@adeyemi001](https://huggingface.co/adeyemi001)
-- GitHub: [@yourusername](https://github.com/adeyemi0)
+- GitHub: [@adeyemi0](https://github.com/adeyemi0)
 
 ## 🙏 Acknowledgments
 
